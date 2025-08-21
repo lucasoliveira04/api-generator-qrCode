@@ -24,12 +24,6 @@ Para utilizar a API, faça uma requisição **GET** para o endpoint, passando os
 http://localhost:8080/api/v1/qrcode/generatePix
 ```
 
-### Endpoint de Produção
-
-```bash
-http://54.234.252.204:8080/api/v1/qrcode/generatePix
-```
-
 ### Exemplo de Requisição
 
 ```bash
