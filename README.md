@@ -41,4 +41,3 @@ curl -X GET "http://54.234.252.204:8080/api/v1/qrcode/generatePixQRCode?pixKey=<
 | `cidade`  | Cidade do destinatário                                                    | Sim                                  | `SaoPaulo`                  |
 | `valor`   | Valor do Pix                                                              | Não (default `0.00`)                 | `10.00`                     |
 | `txid`    | ID da transação                                                           | Não (default: gerado aleatoriamente) | `0890382`                   |
-
